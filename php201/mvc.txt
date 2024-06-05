@@ -1,0 +1,12 @@
+project/
+├── app/
+│   ├── controllers/
+│   ├── models/
+│   ├── views/
+├── public/
+│   ├── css/
+│   ├── js/
+│   ├── index.php
+├── vendor/
+├── composer.json
+├── composer.lock
